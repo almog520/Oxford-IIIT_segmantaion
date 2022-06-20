@@ -4,6 +4,6 @@ This assignment was written to a Deep Learning course
 
 Objective of the assignment to train a segmantion network and apply transfer from other networks.
 
-** Model Pipeline - Modified Unet model ** 
-Encoder - MobileNetV2 model (downsampler) <br>
+** Model Pipeline - Modified Unet model ** <br>
+Encoder - MobileNetV2 model (downsampler) 
 Decoder - Pix2pix model (upsampler)
